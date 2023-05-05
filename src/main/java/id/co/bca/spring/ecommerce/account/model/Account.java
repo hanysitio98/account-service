@@ -34,6 +34,6 @@ public class Account {
     private String phoneNumber;
 
     @Column(name = "balance")
-    private Integer balance;
+    private Double balance;
 
 }

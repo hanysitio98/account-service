@@ -16,5 +16,5 @@ public class AccountDTO {
     private String password;
     private String role;
     private String phoneNumber;
-    private Integer balance;
+    private Double balance;
 }
